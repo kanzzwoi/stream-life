@@ -1,0 +1,1422 @@
+{
+  "game": "Streamer Life",
+  "version": 1,
+  "language": "id-ID",
+  "channel_random_names": [
+    "nisaakyutt",
+    "habsyiman333",
+    "haikalwacaners",
+    "habsyihaykalsahabat",
+    "VdanH",
+    "pamanhijau",
+    "kanzzxd",
+    "kupiahsyihab333",
+    "rahmad19",
+    "kingpro10",
+    "bocilrank",
+    "dindacantik",
+    "fajargaming",
+    "rizzkyy",
+    "putraaja",
+    "naylaa08",
+    "mamangaming",
+    "udin123",
+    "salsabila",
+    "anakwarnet",
+    "kopihitam",
+    "bangrul",
+    "zeyyraa",
+    "fauzanfps",
+    "melllody",
+    "aldiwkwk",
+    "cicakgaming",
+    "raflyx",
+    "tuanmuda",
+    "vannzzy",
+    "miraaa",
+    "sukamabar",
+    "dionplays",
+    "adityaa17",
+    "putrii",
+    "kucingoren",
+    "tukangrebahan",
+    "lutfii",
+    "nadine.exe",
+    "gilanggg",
+    "bintangmalam",
+    "yogaa12",
+    "rerechan",
+    "fahmipro",
+    "kakakimut",
+    "masbro88",
+    "akbarid",
+    "tikaaa",
+    "miftahul",
+    "juniorpro",
+    "anakbaik01",
+    "rakaonfire",
+    "syifaa",
+    "frostbyte",
+    "kurokami",
+    "naufalxyz",
+    "meongguy",
+    "rahm4t",
+    "sintaaja",
+    "farhanlive",
+    "tobrutgaming",
+    "dimasaja",
+    "ayuuwu",
+    "rendygg",
+    "kenzoo",
+    "dudung88",
+    "mylovelycat",
+    "arilz",
+    "devaa09",
+    "nabilahh",
+    "bocil_sultan",
+    "vynzz",
+    "dheaaja",
+    "rafifxd",
+    "sukamakan",
+    "ratuwifi",
+    "gamerreceh",
+    "miko_chan",
+    "satriooo",
+    "hanifpro",
+    "kaklalaa",
+    "bimaboom",
+    "putra_kecil",
+    "silviya",
+    "mashendra",
+    "milahehe",
+    "yanzz",
+    "kingoflag",
+    "muhammadx",
+    "shafa08",
+    "riooffline",
+    "cacaaja",
+    "fikiwkwk",
+    "omgilang",
+    "siskaaa",
+    "sultanreceh",
+    "renzplay",
+    "azkya",
+    "kakdinda",
+    "maulidya",
+    "danzz19",
+    "fikri_aja",
+    "lilacmoon",
+    "bocilpvp",
+    "tariii",
+    "anggunn",
+    "dikaon",
+    "bukanbot",
+    "kopisusu",
+    "luckycat",
+    "memehunter",
+    "akmalpro",
+    "vionaaja",
+    "fahri19",
+    "chikachuu",
+    "wawanfps",
+    "jesslyn",
+    "maspalingpro",
+    "raraa22",
+    "kepoaja",
+    "andreplay",
+    "tukangmabar",
+    "zidanx",
+    "nadnad",
+    "tegaraja",
+    "bocillegend",
+    "nanaaa",
+    "gilangpro99",
+    "kaisaraja",
+    "mputri",
+    "mangudin",
+    "sherlyy",
+    "abimanyu",
+    "lalaa.exe",
+    "fajarml",
+    "bocilngab",
+    "krisnaaa",
+    "miraonline",
+    "tioaja",
+    "syahrulgg",
+    "doyankucing",
+    "cintyaa",
+    "alvinpro",
+    "anakkos",
+    "kikii",
+    "muhfadil",
+    "rajaafk",
+    "yukimori",
+    "renataaa",
+    "bambangop",
+    "dedeimut",
+    "sukastream",
+    "xynaa",
+    "rafi_aja",
+    "tehmanis",
+    "gamerkalem",
+    "nindyaa"
+  ],
+  "hate_comments": [
+    "unsubscribe aja nih channel",
+    "sok asik banget",
+    "muka lu ngeselin",
+    "ngomongnya bikin capek",
+    "gaya lu sok terkenal",
+    "siapa juga yang mau nonton lu",
+    "konten lu gak menarik",
+    "berisik banget orangnya",
+    "cringe banget sumpah",
+    "garing banget lawakannya",
+    "gak lucu sama sekali",
+    "sok dekat sama penonton",
+    "berasa paling penting",
+    "narsis amat sih",
+    "haus perhatian banget",
+    "pengen terkenal doang lu",
+    "channel apaan nih",
+    "ngapain juga live begini",
+    "gak ada yang spesial dari lu",
+    "pembawaan lu aneh banget",
+    "cara ngomong lu nyebelin",
+    "sok bijak banget",
+    "omongan lu muter-muter",
+    "kebanyakan bacot",
+    "gak punya karisma",
+    "gak cocok jadi streamer",
+    "mending berhenti live aja",
+    "channel lu sepi terus",
+    "penonton dikit sok seleb",
+    "sok punya fans banyak",
+    "gaya lu maksa banget",
+    "ketawa lu dibuat-buat",
+    "ekspresi lu lebay",
+    "sok imut banget",
+    "sok cool padahal enggak",
+    "pede banget padahal biasa aja",
+    "gak ada ciri khas",
+    "konten lu ngebosenin",
+    "judul doang yang menarik",
+    "thumbnail doang modalnya",
+    "isi channel kosong banget",
+    "tiap live isinya itu-itu aja",
+    "gak kreatif sama sekali",
+    "terlalu banyak drama",
+    "cari validasi terus",
+    "sok paling benar",
+    "gak bisa nerima kritik ya?",
+    "fans lu pada aneh",
+    "komunitas lu berisik",
+    "admin channel gak becus"
+  ],
+  "saweria_questions": [
+    {
+      "id": 1,
+      "question": "Besok live gak?",
+      "answers": {
+        "A": "Banyak tanya lu",
+        "B": "Iya, insyaallah live lagi!"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Udah nikah apa belum?",
+      "answers": {
+        "A": "Belum hehe, doain aja ya.",
+        "B": "Kepo banget dah"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Bang, boleh sapa aku?",
+      "answers": {
+        "A": "Boleh dong, halo! Makasih udah mampir.",
+        "B": "Nggak mau, siapa lu?"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "Kapan upload video baru?",
+      "answers": {
+        "A": "Secepatnya, lagi aku siapin.",
+        "B": "Cari sendiri sana"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "Boleh mabar gak bang?",
+      "answers": {
+        "A": "Boleh, nanti aku kabarin jadwalnya ya.",
+        "B": "Ogah, skill lu jelek"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 6,
+      "question": "Main game apa lagi nanti?",
+      "answers": {
+        "A": "Tunggu vote dari kalian ya!",
+        "B": "Rahasia, gak usah kepo"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "Bang dari mana asalnya?",
+      "answers": {
+        "A": "Dari Indonesia, salam kenal!",
+        "B": "Bukan urusan lu"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "Kok hari ini telat live?",
+      "answers": {
+        "A": "Suka-suka gue",
+        "B": "Maaf ya, tadi ada sedikit urusan."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Bang, udah makan?",
+      "answers": {
+        "A": "Udah, makasih udah perhatian.",
+        "B": "Ngapain nanya begitu"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "Bisa ajarin aku main?",
+      "answers": {
+        "A": "Bisa, nanti aku kasih beberapa tips.",
+        "B": "Belajar sendiri lah"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "Kapan target 1.000 subscriber?",
+      "answers": {
+        "A": "Semoga segera, bantu share ya!",
+        "B": "Mimpi aja lu"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "Bang suka game horror?",
+      "answers": {
+        "A": "Suka, apalagi kalau main bareng kalian.",
+        "B": "Game begitu buat anak kecil"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "Boleh request game?",
+      "answers": {
+        "A": "Boleh, tulis di chat ya.",
+        "B": "Gak nerima request"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Bang, kenapa mulai streaming?",
+      "answers": {
+        "A": "Karena pengen bantai windah",
+        "B": "Karena suka berbagi keseruan sama kalian."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Kapan giveaway?",
+      "answers": {
+        "A": "Minta terus, miskin amat",
+        "B": "Kalau ada kesempatan dan budget, ya!"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "Bang, boleh jadi moderator?",
+      "answers": {
+        "A": "Boleh, aktif dan bantu jaga chat dulu ya.",
+        "B": "Gak level lu"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Bisa collab sama streamer lain?",
+      "answers": {
+        "A": "Bisa banget, semoga ada kesempatan.",
+        "B": "Mereka gak mau sama gue"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Bang, suka kucing gak?",
+      "answers": {
+        "A": "Suka dong, kucing lucu banget.",
+        "B": "Hewan apaan tuh"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "Gw keknya pernah liat lu deh",
+      "answers": {
+        "A": "Dih stalker lu ya",
+        "B": "Iyakah? sapa aja klo ketemu ya."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Bang, kapan face reveal?",
+      "answers": {
+        "A": "Ngejek lu? gelud sini",
+        "B": "Ngawur, ini muka ku loh wkwk."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "Boleh ucapin hbd buat temenku? namanya hsbsyi",
+      "answers": {
+        "A": "Gak penting banget",
+        "B": "Boleh, hbd Habsyi semoga panjang umur"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Bang, live sampai jam berapa?",
+      "answers": {
+        "A": "Sampe capek wkwk.",
+        "B": "Sampai lu pergi"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "Apa tips buat pemula?",
+      "answers": {
+        "A": "Gak usah mulai, percuma",
+        "B": "Konsisten, nikmati proses, dan terus belajar."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Bang, pakai setting apa?",
+      "answers": {
+        "A": "Nanti aku share setting yang nyaman dipakai.",
+        "B": "Cari tahu sendiri"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Boleh kasih kritik?",
+      "answers": {
+        "A": "Boleh, asal sopan dan membangun ya.",
+        "B": "Kritik lu gak guna"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Bang, kapan live bareng viewers?",
+      "answers": {
+        "A": "Gak bakal, jangan berharap",
+        "B": "Aku rencanain sesi khusus, pantengin jadwal ya."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Kenapa viewer lagi sedikit?",
+      "answers": {
+        "A": "Karena kalian gak guna",
+        "B": "Gak apa-apa, kita bangun pelan-pelan."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "Boleh kirim fanart?",
+      "answers": {
+        "A": "Gak ada yang mau lihat",
+        "B": "Boleh banget, aku senang lihat karya kalian."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "Apa yang bikin lu semangat live?",
+      "answers": {
+        "A": "Dukungan dan obrolan seru dari kalian.",
+        "B": "Bukan urusan kalian"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "Boleh dukung lewat saweria?",
+      "answers": {
+        "A": "Wajib sawer kalau mau ditanggapi",
+        "B": "Boleh kalau ikhlas dan sesuai kemampuan."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "Boleh nonton tanpa subscribe?",
+      "answers": {
+        "A": "Boleh banget, makasih sudah mampir!",
+        "B": "Subscribe dulu baru boleh"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Apa pesan buat penonton baru?",
+      "answers": {
+        "A": "Selamat datang, semoga betah di sini!",
+        "B": "Gak ada pesan buat lu"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Kalau ada haters gimana?",
+      "answers": {
+        "A": "Aku maki balik semuanya",
+        "B": "Tetap tenang dan fokus ke hal positif."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "Apa tujuan channel ini?",
+      "answers": {
+        "A": "Bikin tempat seru buat main dan ngobrol bareng.",
+        "B": "Biar kalian buang waktu"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Kalau lagi capek gimana?",
+      "answers": {
+        "A": "Tetap live walau tumbang",
+        "B": "Istirahat dulu, kesehatan tetap nomor satu."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "Apa game favorit abang?",
+      "answers": {
+        "A": "Gak perlu tahu",
+        "B": "Ada beberapa, tergantung mood dan teman main."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Boleh kasih ide konten?",
+      "answers": {
+        "A": "Boleh banget, tulis idenya di chat ya.",
+        "B": "Ide lu pasti jelek"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Apa harapan abang buat penonton?",
+      "answers": {
+        "A": "Semoga kalian terus nonton gue aja",
+        "B": "Semoga kalian sehat, bahagia, dan sukses selalu."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "Kalau koneksi putus gimana?",
+      "answers": {
+        "A": "Salah kalian semua",
+        "B": "Aku coba sambung lagi, tunggu sebentar ya."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "Tips supaya gak gugup saat live?",
+      "answers": {
+        "A": "Latihan dulu dan anggap seperti ngobrol biasa.",
+        "B": "Kalau gugup berarti gak berbakat"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "Suka musik apa?",
+      "answers": {
+        "A": "Musik lu pasti jelek",
+        "B": "Macam-macam, rekomendasiin lagu yang kamu suka!"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "Boleh ikut voting game berikutnya?",
+      "answers": {
+        "A": "Tentu, suara kalian penting.",
+        "B": "Gak usah ikut campur"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "Dengerin music dimana?",
+      "answers": {
+        "A": "Banyak tanya setan",
+        "B": "Aku dengerin di website meowsic.my.id."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "Apa yang paling seru dari streaming?",
+      "answers": {
+        "A": "Gak ada, semuanya nyebelin",
+        "B": "Bisa ketemu dan ngobrol sama banyak orang."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Sawer kecil diterima gak?",
+      "answers": {
+        "A": "Tentu, dukungan kalian apa pun tetap berarti.",
+        "B": "Kalau kecil gak usah"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Apa yang harus kulakukan kalau diejek?",
+      "answers": {
+        "A": "Jangan terpancing, cari dukungan dan tetap percaya diri.",
+        "B": "Balas hinaan yang lebih parah"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Boleh promosi channel sendiri?",
+      "answers": {
+        "A": "Spam aja terus",
+        "B": "Boleh kalau sesuai aturan komunitas dan gak spam."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 48,
+      "question": "Jangan lupa makan ya",
+      "answers": {
+        "A": "Haha iya nanti yaa, makasih udh ngingetin.",
+        "B": "Emg lu bapak gw?"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Pesan buat calon streamer?",
+      "answers": {
+        "A": "Mulai sederhana, konsisten, dan tetap jadi diri sendiri.",
+        "B": "Jangan coba, pasti gagal"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "Kok makin rame, bang?",
+      "answers": {
+        "A": "Haha iya nih, seneng bgt.",
+        "B": "Jelas, gw bakal salip windah ni besok"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 51,
+      "question": "Apa yang dilakukan sebelum live?",
+      "answers": {
+        "A": "Gak usah persiapan, bodo amat",
+        "B": "Cek audio, koneksi, dan siapin game."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Apa target tahun ini?",
+      "answers": {
+        "A": "Target gue bukan urusan lu",
+        "B": "Bikin konten lebih baik dan komunitas makin solid."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 53,
+      "question": "Bang, boleh tanya umur?",
+      "answers": {
+        "A": "Boleh, tapi aku pilih simpan detail pribadi ya.",
+        "B": "Kepo amat sama umur gue"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "Cara mengatasi kalah beruntun?",
+      "answers": {
+        "A": "Banting perangkat aja",
+        "B": "Ambil jeda sebentar, lalu coba lagi dengan tenang."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "Apa yang bikin komunitas sehat?",
+      "answers": {
+        "A": "Saling menghormati, gak spam, dan gak merundung.",
+        "B": "Yang penting berisik"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Kalau aku sedih boleh nonton live?",
+      "answers": {
+        "A": "Masalah lu bukan urusan gue",
+        "B": "Boleh, semoga live ini bisa bikin harimu lebih ringan."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 57,
+      "question": "Harus punya PC mahal buat mulai?",
+      "answers": {
+        "A": "Kalau gak mahal gak usah mulai",
+        "B": "Enggak, mulai dari perangkat yang kamu punya dulu."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "Cara terbaik mendukung channel?",
+      "answers": {
+        "A": "Nonton, berinteraksi sopan, dan share kalau suka.",
+        "B": "Harus kirim uang tiap live"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Kapan live spesial ulang tahun channel?",
+      "answers": {
+        "A": "Gak ada yang perlu dirayakan",
+        "B": "Kalau tanggalnya dekat, aku umumkan nanti ya."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "Makasih udah jawab pertanyaanku!",
+      "answers": {
+        "A": "Iya, jangan tanya lagi",
+        "B": "Sama-sama, makasih juga udah nonton."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 61,
+      "question": "Boleh jadi teman online?",
+      "answers": {
+        "A": "Boleh ngobrol di komunitas, tetap jaga privasi ya.",
+        "B": "Gak level jadi teman gue"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "Kalau beda pendapat di chat?",
+      "answers": {
+        "A": "Diskusi santai dan tetap saling menghargai.",
+        "B": "Yang beda pendapat langsung blokir"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 63,
+      "question": "Apa konten favoritmu sendiri?",
+      "answers": {
+        "A": "Konten gue semua sempurna",
+        "B": "Konten yang seru dan bisa dinikmati bareng kalian."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 64,
+      "question": "Sampai jumpa di live berikutnya!",
+      "answers": {
+        "A": "Sampai ketemu lagi, jaga diri ya!",
+        "B": "Ya udah, pergi sana"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Bang lagi ngapain di luar live?",
+      "answers": {
+        "A": "Biasanya istirahat atau nyiapin ide konten.",
+        "B": "Kepo amat hidup gue"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "Kamu suka ngobrol santai begini?",
+      "answers": {
+        "A": "Suka, seru bisa ngobrol langsung sama kalian.",
+        "B": "Gak, kalian berisik"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Apa makanan favorit abang?",
+      "answers": {
+        "A": "Gak bakal gue kasih tahu",
+        "B": "Banyak sih, tapi makanan rumahan selalu enak."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Pernah merasa gugup saat pertama live?",
+      "answers": {
+        "A": "Pernah dong, lama-lama jadi terbiasa.",
+        "B": "Kalau gugup berarti payah"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "Kalau chat sepi, ngapain?",
+      "answers": {
+        "A": "Cari topik menarik atau tanya kabar kalian.",
+        "B": "Salah kalian gak seru"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Boleh kirim meme buat dibaca?",
+      "answers": {
+        "A": "Boleh, yang aman dan gak menghina orang ya.",
+        "B": "Kirim yang paling kasar aja"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 71,
+      "question": "Apa nasihat buat yang lagi berusaha?",
+      "answers": {
+        "A": "Kalau susah ya menyerah",
+        "B": "Pelan-pelan aja, konsistensi lebih penting dari buru-buru."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 72,
+      "question": "Kapan bikin sesi Q&A lagi?",
+      "answers": {
+        "A": "Pertanyaan kalian membosankan",
+        "B": "Kalau pertanyaannya banyak, kita adakan lagi ya."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 73,
+      "question": "Bang, suka hujan atau panas?",
+      "answers": {
+        "A": "Pertanyaan apaan sih",
+        "B": "Dua-duanya ada enaknya, tergantung suasana."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 74,
+      "question": "Apa yang bikin hari abang bagus?",
+      "answers": {
+        "A": "Bukan urusan kalian",
+        "B": "Bisa istirahat cukup dan ngobrol sama kalian."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 75,
+      "question": "Kalau ada kritik membangun?",
+      "answers": {
+        "A": "Aku coba dengarkan dan evaluasi kalau memang masuk akal.",
+        "B": "Kritik sedikit langsung kublokir"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 76,
+      "question": "Boleh request topik obrolan?",
+      "answers": {
+        "A": "Boleh, tulis topik yang menarik di chat ya.",
+        "B": "Topik lu pasti membosankan"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 77,
+      "question": "Apa yang dilakukan saat burnout?",
+      "answers": {
+        "A": "Istirahat sebentar dan atur ulang jadwal.",
+        "B": "Dipaksa terus sampai tumbang"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 78,
+      "question": "Bang, pernah salah ngomong saat live?",
+      "answers": {
+        "A": "Gue gak pernah salah",
+        "B": "Pernah, namanya juga manusia, kita belajar."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 79,
+      "question": "Apa arti dukungan penonton buat abang?",
+      "answers": {
+        "A": "Berarti banget, makasih sudah meluangkan waktu.",
+        "B": "Kalau gak sawer gak berarti"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 80,
+      "question": "Boleh nonton replay besok?",
+      "answers": {
+        "A": "Ngapain nonton ulang",
+        "B": "Boleh, kalau replay-nya tersedia di channel."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 81,
+      "question": "Apa yang paling kamu suka dari komunitas?",
+      "answers": {
+        "A": "Bisa saling dukung dan bercanda dengan sehat.",
+        "B": "Gak ada yang gue suka"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 82,
+      "question": "Bang, punya hewan peliharaan?",
+      "answers": {
+        "A": "Suka hewan, terutama kucing!",
+        "B": "Bukan urusan lu"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 83,
+      "question": "Kalau ada rumor tentang channel?",
+      "answers": {
+        "A": "Aku bakal klarifikasi dengan tenang kalau perlu.",
+        "B": "Aku sebar rumor balik"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 84,
+      "question": "Apa cara bikin obrolan gak canggung?",
+      "answers": {
+        "A": "Mulai dari topik ringan dan dengarkan orang lain.",
+        "B": "Kalau canggung, tinggalin aja"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 85,
+      "question": "Bang, apa tujuan jangka panjang?",
+      "answers": {
+        "A": "Mengembangkan channel dan bikin komunitas nyaman.",
+        "B": "Cuma mau terkenal cepat"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 86,
+      "question": "Kalau penonton baru malu komentar?",
+      "answers": {
+        "A": "Santai aja, boleh nyimak dulu sampai nyaman.",
+        "B": "Kalau diam mending keluar"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 87,
+      "question": "Apa yang harus dilakukan kalau salah paham?",
+      "answers": {
+        "A": "Tanya baik-baik dan jelaskan maksudnya.",
+        "B": "Langsung marah aja"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 88,
+      "question": "Bang, boleh kirim pertanyaan lagi nanti?",
+      "answers": {
+        "A": "Boleh, selama sopan dan sesuai topik.",
+        "B": "Jangan ganggu gue lagi"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 89,
+      "question": "Bagaimana cara tetap konsisten?",
+      "answers": {
+        "A": "Gak usah istirahat demi konten",
+        "B": "Bikin jadwal realistis dan jangan lupa istirahat."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 90,
+      "question": "Bang, apakah semua sawer dibaca?",
+      "answers": {
+        "A": "Aku usahakan baca, tapi mungkin ada yang terlewat.",
+        "B": "Kalau kecil gak bakal kubaca"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 91,
+      "question": "Apa pesan untuk orang yang kesepian?",
+      "answers": {
+        "A": "Ya tanggung sendiri",
+        "B": "Kamu tetap berharga, coba hubungi orang yang kamu percaya."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "Boleh share pengalaman pribadi di chat?",
+      "answers": {
+        "A": "Boleh secukupnya, tetap jaga privasi ya.",
+        "B": "Ceritain semua detail pribadimu"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "Apa yang bikin obrolan live menyenangkan?",
+      "answers": {
+        "A": "Saling menghargai dan respons yang nyambung.",
+        "B": "Saling sindir biar ramai"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 94,
+      "question": "Bang, suka ngobrol soal masa kecil?",
+      "answers": {
+        "A": "Cerita begitu membosankan",
+        "B": "Boleh, nostalgia kadang seru juga."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 95,
+      "question": "Kapan mulai streaming lagi setelah libur?",
+      "answers": {
+        "A": "Aku kabari jadwalnya lewat pengumuman ya.",
+        "B": "Gak usah nungguin"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 96,
+      "question": "Kalau ada penonton toxic?",
+      "answers": {
+        "A": "Ingatkan dengan sopan atau moderasi kalau perlu.",
+        "B": "Aku hina balik satu-satu"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 97,
+      "question": "Apa tips menjaga privasi saat live?",
+      "answers": {
+        "A": "Kasih tahu semua data biar dekat",
+        "B": "Hindari membagikan alamat dan info pribadi."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "Bang, makasih udah nemenin malam ini!",
+      "answers": {
+        "A": "Ya udah, sana tidur",
+        "B": "Sama-sama, semoga istirahatmu nyaman."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "Apa yang ingin kamu tingkatkan dari channel?",
+      "answers": {
+        "A": "Gak ada yang perlu diperbaiki",
+        "B": "Kualitas audio, topik, dan interaksi dengan penonton."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 100,
+      "question": "Kalau penonton kasih saran bagus?",
+      "answers": {
+        "A": "Saran kalian gak penting",
+        "B": "Makasih, bakal aku pertimbangkan."
+      },
+      "correct_answer": "B"
+    }
+  ],
+  "random_comments_chat": [
+    "absen bang",
+    "sapa aku dong",
+    "wkwkwk",
+    "hah serius?",
+    "aku juga sama bang",
+    "calon streamer gede nih",
+    "hadir bang",
+    "pertama nih",
+    "telat gak nih?",
+    "izin nyimak",
+    "semangat live-nya",
+    "lucu banget anjir",
+    "kok bisa gitu wkwk",
+    "aku dari tadi nungguin",
+    "baru masuk nih",
+    "halo bangg",
+    "jangan lupa minum",
+    "udah makan belum bang?",
+    "bang coba baca chat",
+    "pinjem seratus bang",
+    "wkwk ngakak parah",
+    "seru juga ternyata",
+    "lanjut bang jangan berhenti",
+    "ini live tiap hari?",
+    "baru follow bang",
+    "notifnya telat masuk",
+    "salam kenal bang",
+    "aku tim rebahan",
+    "aku penonton setia",
+    "gaskeun",
+    "mantap jiwa",
+    "waduh kok bisa",
+    "wkwkwk gak kuat",
+    "bisa banget sih",
+    "seriusan nih?",
+    "jangan lupa istirahat",
+    "bang kapan upload video?",
+    "aku subscribe ya",
+    "udah ku-like bang",
+    "kok tiba-tiba gitu",
+    "cerita dulu bang",
+    "ada yang dari Kalimantan?",
+    "aku dari Banjarmasin bang",
+    "salam dari jauh",
+    "tes satu dua",
+    "halo semuanya",
+    "ramein chat dong",
+    "aku baru kenal channel ini",
+    "kontennya asik",
+    "wih keren",
+    "jangan panik bang",
+    "plot twist banget",
+    "bentar ambil cemilan",
+    "aku balik lagi",
+    "jangan end dulu",
+    "bang bohong mulu",
+    "chat ini rusuh",
+    "moderator mana nih",
+    "damai guys damai",
+    "jangan berantem",
+    "wkwk admin lewat",
+    "nonton sambil tiduran",
+    "semoga rame terus",
+    "semoga tembus 1k viewer",
+    "target 100k subscriber bang",
+    "kapan collab?",
+    "collab sama siapa aja",
+    "coba baca komen atas",
+    "yang itu lucu bang",
+    "sumpah gak nyangka",
+    "kok bisa kepikiran begitu",
+    "bang ajarin dong",
+    "tutorialnya kapan?",
+    "aku coba nanti",
+    "boleh minta tips?",
+    "awas belakangmu!",
+    "eh beneran ada?",
+    "aku kira editan",
+    "ini real gak sih",
+    "lag gak bang?",
+    "stream lancar nih",
+    "aku nonton di TV",
+    "ada yang nonton di HP?",
+    "halo dari sekolah",
+    "jangan lupa tugas bang",
+    "waktunya istirahat",
+    "semangat cari cuan",
+    "sawer dulu siapa tahu dibaca",
+    "bang makasih hiburannya",
+    "hari ini capek jadi nonton",
+    "mood-ku naik lagi",
+    "ketemu lagi kita",
+    "akhirnya live juga",
+    "nunggu dari tadi",
+    "bang jangan lupa save",
+    "episode berikutnya kapan",
+    "ini konten berkualitas",
+    "pelan-pelan jadi besar",
+    "gas sampai pagi?",
+    "jangan sampai begadang",
+    "udah malam bang",
+    "besok sekolah nih",
+    "aku besok kerja",
+    "satu jam lagi boleh",
+    "makasih live-nya bang",
+    "hadir dari awal",
+    "aku penonton baru",
+    "semoga sehat selalu",
+    "semoga sukses bang",
+    "semoga channel makin besar",
+    "konten begini yang dicari",
+    "vibes-nya enak",
+    "aku cuma numpang lewat",
+    "eh malah keterusan nonton",
+    "kok udah sejam aja",
+    "waktu cepat banget",
+    "bang ending-nya jangan nanggung",
+    "bang lagi ngapain?",
+    "hari ini gimana kabarnya?",
+    "cerita dong bang",
+    "lagi hujan di sini",
+    "aku sambil makan nih",
+    "kalian lagi pada ngapain?",
+    "suaranya enak didengar bang",
+    "bahas topik random dong",
+    "spill cerita masa kecil",
+    "pernah ngalamin hal aneh gak?",
+    "bahas kisah horor dong",
+    "aku suka obrolan santai gini",
+    "bang punya hewan peliharaan?",
+    "kucingku lagi tidur nih",
+    "aku lagi gabut makanya mampir",
+    "chat santai aja yuk",
+    "ada yang belum tidur?",
+    "siapa yang nonton dari luar kota?",
+    "bang tinggal di kota mana?",
+    "hari ini lumayan capek ya",
+    "semoga harimu menyenangkan bang",
+    "aku suka cara abang cerita",
+    "ceritanya relate banget",
+    "wah aku pernah ngalamin juga",
+    "bener banget sih itu",
+    "setuju sama pendapat abang",
+    "kalau menurutku beda dikit bang",
+    "coba bahas soal pertemanan",
+    "bahas pengalaman sekolah dong",
+    "bahas kerjaan pertama bang",
+    "pernah salah tingkah gak?",
+    "apa makanan favorit abang?",
+    "tim pedas kumpul sini"
+  ],
+  "random_comments_game": [
+    "gas ranked bang",
+    "GG banget!",
+    "skill issue wkwk",
+    "anjay clutch",
+    "itu tadi hoki apa skill?",
+    "bang main ranked aja",
+    "mabar kapan?",
+    "waduh hampir aja",
+    "nice try",
+    "kok bisa kalah gitu wkwk",
+    "spill setting bang",
+    "bang pakai sensitivity berapa?",
+    "itu musuhnya jago juga",
+    "waduh kena prank",
+    "seriusan menang?",
+    "kalah menang biasa bang",
+    "bang coba mode susah",
+    "damage-nya sakit banget",
+    "awas ada musuh di belakang!",
+    "reload dulu bang",
+    "loot dulu jangan buru-buru",
+    "rotasi ke zona bang",
+    "jangan maju sendirian",
+    "cover temenmu bang",
+    "revive dulu!",
+    "tinggal satu musuh lagi",
+    "wah aim-nya rapi",
+    "headshot dong!",
+    "kok miss semua wkwk",
+    "combo-nya mantap",
+    "build item apa tuh?",
+    "pakai hero apa bang?",
+    "pick yang itu aja",
+    "jangan lupa farming",
+    "objektif dulu bang",
+    "turret-nya dijaga",
+    "boss-nya hampir kalah",
+    "heal dulu bang",
+    "mana potion-nya?",
+    "coba strategi lain",
+    "timnya kompak banget",
+    "random team lagi ya?",
+    "matchmaking emang aneh",
+    "ping merah bang",
+    "FPS drop gak?",
+    "lag pas war wkwk",
+    "setting grafiknya apa?",
+    "game ini seru juga",
+    "kapan ganti map?",
+    "coba senjata yang itu",
+    "senjata favoritku tuh",
+    "skin-nya keren bang",
+    "itu item langka ya?",
+    "quest-nya belum selesai",
+    "cek inventory dulu",
+    "upgrade gear dulu bang",
+    "jangan lupa ambil reward",
+    "event-nya masih ada?",
+    "misi hari ini apa?",
+    "achievement sebentar lagi",
+    "tinggal naik satu rank",
+    "push rank malam ini",
+    "win streak nih gas",
+    "aduh lose streak lagi",
+    "jangan tilt bang",
+    "main santai aja",
+    "round terakhir penentuan",
+    "clutch atau kalah nih",
+    "defuse dulu bang",
+    "plant bomb sekarang",
+    "jaga site sebelah",
+    "musuhnya nge-flank",
+    "jangan peek dulu",
+    "lempar utility bang",
+    "combo skill-nya pas banget",
+    "ultimate-nya simpan dulu",
+    "mana cooldown-nya?",
+    "timing-nya telat dikit",
+    "parry-nya keren",
+    "dodge ke kiri bang",
+    "lompatnya kepagian wkwk",
+    "platforming susah juga",
+    "boss fight tegang banget",
+    "jangan kena trap",
+    "cek map dulu bang",
+    "jalan rahasia tuh",
+    "ambil checkpoint dulu",
+    "speedrun aja bang",
+    "quest sampingannya dulu",
+    "dialognya jangan diskip",
+    "cerita game-nya menarik",
+    "plot twist game-nya gila",
+    "teori lore dong bang",
+    "ending yang mana nih?",
+    "coba difficulty hard",
+    "tutorialnya kelewat bang",
+    "craft item dulu",
+    "resource-nya kurang",
+    "inventory penuh tuh",
+    "jual item yang gak kepakai",
+    "party invite aku bang",
+    "server lagi rame?",
+    "match berikutnya gas",
+    "rematch bang!",
+    "satu game lagi",
+    "last match beneran nih",
+    "GG, nice play",
+    "well played semuanya",
+    "musuhnya toxic juga",
+    "jangan lupa report cheater",
+    "itu bug apa fitur?",
+    "hitbox-nya aneh banget",
+    "update baru ngaruh gak?",
+    "patch note-nya udah baca?",
+    "meta sekarang berubah",
+    "karakter itu lagi OP",
+    "nerf dong karakter itu",
+    "buff senjata itu please",
+    "coba mode survival",
+    "wave berikutnya siap-siap",
+    "ammo tinggal sedikit",
+    "armor-nya pecah bang",
+    "kendaraannya jangan ditinggal",
+    "ambil bahan bakar dulu",
+    "bang, mark lokasi loot",
+    "zona makin kecil",
+    "lari ke safe zone",
+    "jangan jatuh bang wkwk",
+    "parkour-nya susah",
+    "aku juga pakai karakter itu",
+    "rank aku masih gold nih",
+    "tips aim buat pemula dong",
+    "cara counter karakter itu gimana?",
+    "coba loadout ini bang",
+    "setting kontrolnya nyaman gak?",
+    "itu kombo bisa diulang?",
+    "mantap, menang tipis!",
+    "yah tinggal sedikit lagi",
+    "comeback-nya keren",
+    "GG timnya",
+    "ayo antre match lagi",
+    "akhirnya naik rank",
+    "coba strategi lain 143",
+    "wah hampir clutch 144",
+    "cek map bang 145",
+    "gas match berikutnya 146",
+    "GG bang 147",
+    "coba strategi lain 148",
+    "wah hampir clutch 149",
+    "cek map bang 150"
+  ]
+}
