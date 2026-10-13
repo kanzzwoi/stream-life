@@ -2,7 +2,8 @@
   "game": "Streamer Life",
   "version": 1,
   "language": "id-ID",
-[
+  
+  "channel_random_names": [
   "nisaakyutt",
   "habsyiman333",
   "haikalwacaners",
@@ -504,7 +505,7 @@
   "anwar22",
   "budi61"
 ],
-[
+  "hate_comments": [
   "unsubscribe aja nih channel",
   "sok asik banget lu",
   "muka lu ngeselin asli",
